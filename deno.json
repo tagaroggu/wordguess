@@ -1,0 +1,11 @@
+{
+	"name": "@tagaroggu/wordguess",
+	"version": "0.0.0",
+	"exports": {
+		".": "./mod.ts",
+		"./algorithm": "./algorithm.ts"
+	},
+	"publish": {
+		"exclude": ["**/*.test.ts"]
+	}
+}

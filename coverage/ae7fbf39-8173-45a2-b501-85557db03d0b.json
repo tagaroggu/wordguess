@@ -1,0 +1,16 @@
+{
+  "scriptId": "314",
+  "url": "file:///home/junipyr/code/deno/wordguess/algorithm.test.ts",
+  "functions": [
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 0, "endOffset": 232, "count": 1 }],
+      "isBlockCoverage": true
+    },
+    {
+      "functionName": "",
+      "ranges": [{ "startOffset": 136, "endOffset": 229, "count": 1 }],
+      "isBlockCoverage": true
+    }
+  ]
+}
